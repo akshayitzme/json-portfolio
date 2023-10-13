@@ -13,7 +13,7 @@ export const data = {
     },
     jobDetails: [{
         company: "Wahni IT Solutions",
-        designation: "Software Developer",
+        designation: "SDE-II",
     }],
     techStack: [{
         languages: ["JavaScript", "TypeScript", "Python", "PHP"],
